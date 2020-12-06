@@ -1,7 +1,7 @@
 # Matesa Installer
 HerokuAPI'si kullanılarak yapılmış Otomatik Matesa Deploy'er
 
-Asena Reposunu kontrol edin: https://github.com/matesa/MatesaUserBot
+Matesa Reposunu kontrol edin: https://github.com/matesa/MatesaUserBot
 ## Kurulum
 ```sh
 git clone https://github.com/matesa/Installer
