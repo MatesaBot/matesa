@@ -1,6 +1,4 @@
 # Matesa Installer
-[![Run on Repl.it](https://repl.it/badge/github/matesa/installer)](https://repl.it/github/matesa/installer)
-
 HerokuAPI'si kullanılarak yapılmış Otomatik Matesa Deploy'er
 
 Asena Reposunu kontrol edin: https://github.com/matesa/MatesaUserBot
