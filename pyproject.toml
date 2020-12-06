@@ -1,0 +1,13 @@
+[tool]
+[tool.poetry]
+name = "MatesaUserBot_Deployer"
+version = "1.0"
+description = "Automatic Deploy MatesaUserBot to Heroku"
+[tool.poetry.dependencies]
+python = "^3.8"
+bs4 = "*"
+gitpython = "*"
+heroku3 = "*"
+requests = "*"
+rich = "*"
+telethon = "*"
